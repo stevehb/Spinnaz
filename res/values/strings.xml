@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Spinnaz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_spinnaz">Spinnaz</string>
+    <string name="x_axis_label">yaw:</string>
+    <string name="y_axis_rotation">pitch:</string>
+    <string name="z_axis_rotation">roll:</string>
+    <string name="default_no_data">no data</string>
+    <string name="transmit_label">Transmit to Server</string>
+    <string name="spinnaz_title">Spinnaz</string>
+
+</resources>
